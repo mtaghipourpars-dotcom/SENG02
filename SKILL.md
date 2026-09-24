@@ -19,10 +19,10 @@ Build the system exactly from the project references. Treat the Master Specifica
 
 ## Activation and source precedence
 1. Read this file first.
-2. For any implementation rule, read `references/MAPNA_PARS_Dynamic_Production_Control_Tower_MASTER_SPEC_V2.0.docx`.
-3. For architecture, temporal model, domain boundaries, integration, security, and platform design, consult `references/MAPNA_PARS_Dynamic_Production_Planning_Architecture_v1.0_2.docx`.
-4. For detailed engine/API/database requirements retained from the earlier baseline, consult `references/MAPNA_PARS_Dynamic_Production_Control_Tower_Implementation_Spec_V1.0_2.docx`.
-5. For UI coverage and detailed screen/function behavior, consult `references/MAPNA_PARS_Dynamic_Production_Control_Tower_Implementation_Spec_V1.1_UI_Features.docx`, `references/MAPNA_PARS_Dynamic_Production_Planning_Architecture_v1.1_UI_Features.docx`, and `references/menu-functionality.md`.
+2. For any implementation rule, read `references/MAPNA_PARS_Dynamic_Production_Control_Tower_MASTER_SPEC_V2.0.md`.
+3. For architecture, temporal model, domain boundaries, integration, security, and platform design, consult `references/MAPNA_PARS_Dynamic_Production_Planning_Architecture_v1.0_2.md`.
+4. For detailed engine/API/database requirements retained from the earlier baseline, consult `references/MAPNA_PARS_Dynamic_Production_Control_Tower_Implementation_Spec_V1.0_2.md`.
+5. For UI coverage and detailed screen/function behavior, consult `references/MAPNA_PARS_Dynamic_Production_Control_Tower_Implementation_Spec_V1.1_UI_Features.md`, `references/MAPNA_PARS_Dynamic_Production_Planning_Architecture_v1.1_UI_Features.md`, and `references/menu-functionality.md`.
 6. For scenario examples and test cases, consult `references/scenarios.md`.
 7. If sources conflict, use the most specific frozen rule in the Master Specification. Do not silently reconcile conflicting requirements.
 

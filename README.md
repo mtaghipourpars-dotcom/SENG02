@@ -9,11 +9,11 @@ mapna-pars-production-control-tower/
 ├── SKILL.md
 ├── README.md
 ├── references/
-│   ├── MAPNA_PARS_Dynamic_Production_Control_Tower_MASTER_SPEC_V2.0.docx
-│   ├── MAPNA_PARS_Dynamic_Production_Planning_Architecture_v1.0_2.docx
-│   ├── MAPNA_PARS_Dynamic_Production_Control_Tower_Implementation_Spec_V1.0_2.docx
-│   ├── MAPNA_PARS_Dynamic_Production_Control_Tower_Implementation_Spec_V1.1_UI_Features.docx
-│   ├── MAPNA_PARS_Dynamic_Production_Planning_Architecture_v1.1_UI_Features.docx
+│   ├── MAPNA_PARS_Dynamic_Production_Control_Tower_MASTER_SPEC_V2.0.md
+│   ├── MAPNA_PARS_Dynamic_Production_Planning_Architecture_v1.0_2.md
+│   ├── MAPNA_PARS_Dynamic_Production_Control_Tower_Implementation_Spec_V1.0_2.md
+│   ├── MAPNA_PARS_Dynamic_Production_Control_Tower_Implementation_Spec_V1.1_UI_Features.md
+│   ├── MAPNA_PARS_Dynamic_Production_Planning_Architecture_v1.1_UI_Features.md
 │   ├── menu-functionality.md
 │   └── scenarios.md
 ├── scripts/
